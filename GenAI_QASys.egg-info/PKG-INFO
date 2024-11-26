@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: GenAI-QASys
+Version: 0.1
+Requires-Dist: llama-index
+Requires-Dist: google-generativeai
+Requires-Dist: llama-index-llms-gemini
+Requires-Dist: pypdf
+Requires-Dist: python-dotenv
+Requires-Dist: IPython
+Requires-Dist: llama-index-embeddings-gemini
+Requires-Dist: streamlit
+Requires-Dist: pinecone
+Requires-Dist: llama-index-vector-stores-pinecone
+Requires-Dist: llama-index-readers-file
+Requires-Dist: arxiv
+Requires-Dist: pinecone[grpc]
